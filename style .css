@@ -1,0 +1,24 @@
+.space{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.marj{
+    margin-top: 0px;
+display: flex;
+justify-content: center;
+}
+button{
+     border: none;
+ padding: 55px;
+ }
+  button:hover{
+ background-color: brown;
+  }.mg{
+    margin-left: 135px;
+  }.set{
+    margin-top: 30px;
+  }
+  .target{
+    margin-top: 30px;
+  }
